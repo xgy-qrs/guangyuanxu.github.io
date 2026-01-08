@@ -4,27 +4,46 @@ title: "Xu Guangyuan"
 author_profile: true
 ---
 
-I am currently an **M.S. student** focusing on **computational imaging and optical sensing**.  
-My research interests include single-pixel imaging, optical system modeling, and image reconstruction algorithms.
+# Guangyuan Xu (许广渊)
 
-I am affiliated with **University of Chinese Academy of Sciences (UCAS)**, in collaboration with **SIOM / HIAS**.
-
----
-
-## Research Interests
-- Computational imaging
-- Single-pixel imaging
-- Optical sensing and imaging systems
-- Inverse problems and image reconstruction
+**M.S. Candidate** in Photoelectric Information Engineering  
+**University of Chinese Academy of Sciences (UCAS)** *Research conducted at the Shanghai Institute of Optics and Fine Mechanics (SIOM)*
 
 ---
 
-## Education
-- **M.S.**, Optical Engineering, University of Chinese Academy of Sciences, 2022–Present  
-- **B.S.**, Electronic Information Engineering, *University Name*, 2018–2022
+## 📖 Biography
+
+I am currently a Master's student (2024–Present) majoring in **Photoelectric Information Engineering** at the University of Chinese Academy of Sciences (UCAS). I am a member of the **Computational Optical Imaging Group** at the **Shanghai Institute of Optics and Fine Mechanics (SIOM)**, under the supervision of **Prof. Guohai Situ**.
+
+My research interests lie at the intersection of optics and computer science, specifically in **Computational Imaging**. I aim to solve inverse problems in imaging systems to achieve visibility in extreme environments. My current work focuses on:
+
+* **Scattering Imaging:** Reconstructing objects through strong scattering media (e.g., imaging through smoke and flames in fire scenarios) and dynamic scattering environments (e.g., deep-sea optical exploration).
+* **Single-Pixel Imaging (SPI):** Developing high-speed SPI systems based on rotating disk modulation devices.
+
+I approach these problems by combining **physical modeling** (imaging mechanisms & simulation) with advanced optimization techniques, including **Compressed Sensing (CS)**, **Deep Learning (DL)**, and precise hardware **servo control**.
 
 ---
 
-## Contact
-- Email: guangyuanxu005@gmail.com
-- GitHub: https://github.com/xgy-qrs
+## 🔬 Research Interests
+
+* **Computational Imaging:** Scattering imaging (Smoke/Fire/Underwater), Non-line-of-sight imaging.
+* **Single-Pixel Imaging:** High-speed modulation, Rotating disk systems, Fourier slice theorem applications.
+* **Algorithms & Optimization:** Inverse problem solving, Image reconstruction, Deep Learning for optics.
+* **System Simulation:** Optical path modeling, Defocus simulation, Physical optics propagation.
+
+---
+
+## 🎓 Education
+
+**M.S. in Photoelectric Information Engineering** | *2024 – Present* **University of Chinese Academy of Sciences (UCAS)**, Beijing, China  
+* *Affiliation:* Shanghai Institute of Optics and Fine Mechanics (SIOM), CAS.
+* *Advisor:* Prof. Guohai Situ.
+
+**B.S. in Process Equipment and Control Engineering** | *2019 – 2023* **Changzhou University (CZU)**, Changzhou, China
+
+---
+
+## 📫 Contact
+
+* **Email:** [guangyuanxu005@gmail.com](mailto:guangyuanxu005@gmail.com)
+* **GitHub:** [github.com/xgy-qrs](https://github.com/xgy-qrs)
