@@ -18,7 +18,7 @@ I am currently a Master's student (2024–Present) majoring in **Photoelectric I
 My research interests lie at the intersection of optics and computer science, specifically in **Computational Imaging**. I aim to solve inverse problems in imaging systems to achieve visibility in extreme environments. My current work focuses on:
 
 * **Scattering Imaging:** Reconstructing objects through strong scattering media (e.g., imaging through smoke and flames in fire scenarios) and dynamic scattering environments (e.g., deep-sea optical exploration).
-* **Single-Pixel Imaging (SPI):** Developing high-speed SPI systems based on rotating disk modulation devices.
+* **Single-Pixel Imaging (SPI):** Develop a rotating disc modulation device with servo function to achieve high-speed SPI system.
 
 I approach these problems by combining **physical modeling** (imaging mechanisms & simulation) with advanced optimization techniques, including **Deep Learning (DL)** and precise hardware **servo control**.
 
