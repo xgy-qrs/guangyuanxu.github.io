@@ -4,7 +4,7 @@ title: "Xu Guangyuan"
 author_profile: true
 ---
 
-# Guangyuan Xu (许广渊)
+# 许广渊
 
 **M.S. Candidate** in Photoelectric Information Engineering  
 **University of Chinese Academy of Sciences (UCAS)** *Research conducted at the Shanghai Institute of Optics and Fine Mechanics (SIOM)*
