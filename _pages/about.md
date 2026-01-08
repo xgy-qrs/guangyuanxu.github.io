@@ -20,7 +20,7 @@ My research interests lie at the intersection of optics and computer science, sp
 * **Scattering Imaging:** Reconstructing objects through strong scattering media (e.g., imaging through smoke and flames in fire scenarios) and dynamic scattering environments (e.g., deep-sea optical exploration).
 * **Single-Pixel Imaging (SPI):** Developing high-speed SPI systems based on rotating disk modulation devices.
 
-I approach these problems by combining **physical modeling** (imaging mechanisms & simulation) with advanced optimization techniques, including **Compressed Sensing (CS)**, **Deep Learning (DL)**, and precise hardware **servo control**.
+I approach these problems by combining **physical modeling** (imaging mechanisms & simulation) with advanced optimization techniques, including **Deep Learning (DL)** and precise hardware **servo control**.
 
 ---
 
